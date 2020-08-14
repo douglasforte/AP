@@ -1,0 +1,155 @@
+
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(²­Á³ıÿÿÿÿ
+F
+java:S1172÷"*Remove this unused method parameter "evt".(ÃÙŞûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(óŒÀÿûÿÿÿÿ
+^
+java:S2095ˆ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…
+N
+java:S1135ø"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+k	java:S116Ö"VRename this field "SearchField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…˜½A
+d
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­àÇ~
+?
+java:S1604¤"(Make this anonymous inner class a lambda(û—¹Ş
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(ÓØÌä
+M
+java:S1128"7Remove this unused import 'java.awt.HeadlessException'.(€ï›Ú
+O
+java:S1197š"8Move the array designator from the variable to the type.(ı‘Ôú
+g	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôİşâ
+J
+java:S1128"4Remove this unused import 'javax.swing.JScrollPane'.(Ê¹“ı
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿèÜœøÿÿÿÿ
+g	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı‘Ôú
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(óŒÀÿûÿÿÿÿ
+l	java:S116Ó"VRename this field "AuthorRadio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£†ªú
+g	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôİşâ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(óŒÀÿûÿÿÿÿ
+Q	java:S125G"<This block of commented-out lines of code should be removed.(ó×ÎÜ
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(Ã‰âÕÿÿÿÿÿ
+N
+java:S1135õ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+D
+java:S1604Æ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(ÆØÈ»
+\
+java:S2147¼"ECombine this catch with the one at line 442, which has the same body.(¨¦Š½
+R	java:S125Û"<This block of commented-out lines of code should be removed.(ó×ÎÜ
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿèÜœøÿÿÿÿ
+y
+java:S4087¤"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¡Ò˜¦
+i	java:S116Ò"NRename this field "ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥÷œ‡ùÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ÆØÈ»
+D
+java:S1604"(Make this anonymous inner class a lambda(ã™´‚ûÿÿÿÿ
+i	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×äŠ«ùÿÿÿÿ
+^
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…
+w
+java:S1450Û"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+R	java:S125¯"<This block of commented-out lines of code should be removed.(ó×ÎÜ
+R	java:S125£"<This block of commented-out lines of code should be removed.(ó×ÎÜ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı‘Ôú
+f	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı‘Ôú
+T
+java:S1197­"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+O
+java:S1197—"8Move the array designator from the variable to the type.(ı‘Ôú
+?
+java:S1604•"(Make this anonymous inner class a lambda(’Ô—ñ
+O
+java:S1197Î"8Move the array designator from the variable to the type.(ƒõè—
+[
+java:S2147À"ECombine this catch with the one at line 442, which has the same body.(ñÎ¯%
+O	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÓØÌä
+l	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿèÜœøÿÿÿÿ
+r
+java:S1450×"[Remove the "buttonGroup3" field and declare it as a local variable in the relevant methods.(Æ• ü
+F
+java:S1172û"*Remove this unused method parameter "evt".(×äŠ«ùÿÿÿÿ
+R
+java:S1117¸";Rename "Search" which hides the field declared at line 469.(Ôİşâ
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+y
+java:S4087°"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¡Ò˜¦
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²­Á³ıÿÿÿÿ
+]
+java:S2095*"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…
+U
+java:S1161s":Add the "@Override" annotation above this method signature(ÍŸÏ†ùÿÿÿÿ
+I
+java:S1135ó"2Complete the task associated to this TODO comment.(ß·½
+D
+java:S1604"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+q
+java:S1450Õ"URemove the "Search" field and declare it as a local variable in the relevant methods.(Ö†Ïäüÿÿÿÿ
+G
+java:S1068×"0Remove this unused "buttonGroup3" private field.(Æ• ü
+D
+java:S1604ˆ"(Make this anonymous inner class a lambda(À‚ÓÀøÿÿÿÿ
+R
+java:S1117Œ";Rename "Search" which hides the field declared at line 469.(Ôİşâ
+i	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÙŞûÿÿÿÿ
+O
+java:S1197Ã"8Move the array designator from the variable to the type.(ı‘Ôú
+D
+java:S1128"/Remove this unused import 'javax.swing.JTable'.(›ğº
+N
+java:S1135ü"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ú"*Remove this unused method parameter "evt".(¬‘åù
+\
+java:S2147¾"ECombine this catch with the one at line 442, which has the same body.(ã€ 
+j	java:S116Ô"TRename this field "NameRadio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô®Ä‘
+l	java:S116Õ"QRename this field "Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö†Ïäüÿÿÿÿ
+P
+java:S1161w":Add the "@Override" annotation above this method signature(®¸ù
+D
+java:S1604"(Make this anonymous inner class a lambda(ÒİŒÈıÿÿÿÿ
+R	java:S125å"<This block of commented-out lines of code should be removed.(ÆØÈ»
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı‘Ôú
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõè—
+N
+java:S1135û"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+g	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõè—
+k
+java:S2095º"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷‰•Åúÿÿÿÿ
+^
+java:S2095¼"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…
+n
+java:S1450Ø"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+W	java:S125„"<This block of commented-out lines of code should be removed.(óŒÀÿûÿÿÿÿ
+e
+java:S2095‡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­àÇ~
+r
+java:S1450Ù"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+y
+java:S4087Ü"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¡Ò˜¦
+A
+java:S1172ô"*Remove this unused method parameter "evt".(Áø¾ß
+r
+java:S1450Ú"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿèÜœøÿÿÿÿ
+d
+java:S3252""IUse static access with "javax.swing.WindowConstants" for "HIDE_ON_CLOSE".(¸†¨—øÿÿÿÿ
+d	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áø¾ß
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+d	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‘åù
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+N
+java:S1135‚"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+f
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ü‰±ÿ
+x
+java:S4087H"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¡Ò˜¦
+A
+java:S1172ò"*Remove this unused method parameter "evt".(‚À‡ä
+O
+java:S1197¢"8Move the array designator from the variable to the type.(ƒõè—
+F
+java:S1172"*Remove this unused method parameter "evt".(²­Á³ıÿÿÿÿ
+N
+java:S1197>"8Move the array designator from the variable to the type.(ı‘Ôú

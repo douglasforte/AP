@@ -1,0 +1,47 @@
+
+r
+java:S1450Æ"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+n
+java:S1450Ã"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜ
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(³ àŞıÿÿÿÿ
+>
+java:S1604A"(Make this anonymous inner class a lambda(“‡²æ
+n
+java:S1450Â"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+i	java:S116Á"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à“¦ª
+d	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ºÕë
+l	java:S116À"QRename this field "BookID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àşºˆÿÿÿÿÿ
+r
+java:S1450Å"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+\
+java:S2147­"ECombine this catch with the one at line 169, which has the same body.(ã€ 
+@
+java:S1172z"*Remove this unused method parameter "evt".(‚À‡ä
+b
+java:S1192+"GDefine a constant instead of duplicating this literal "Ubuntu" 5 times.(™”Ùşûÿÿÿÿ
+[
+java:S2147¯"ECombine this catch with the one at line 169, which has the same body.(ñÎ¯%
+r
+java:S1450Ä"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿ
+N
+java:S1135–"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+T
+java:S1197œ"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147«"ECombine this catch with the one at line 169, which has the same body.(¨¦Š½
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇƒÀ€
+M
+java:S1135{"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172•"*Remove this unused method parameter "evt".(©ºÕë
+D
+java:S1604¸"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+>
+java:S1604;"(Make this anonymous inner class a lambda(ÿóÎ×
+f	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôµ´
+C
+java:S16043"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ

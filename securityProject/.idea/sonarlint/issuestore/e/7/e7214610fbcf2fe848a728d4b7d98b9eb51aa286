@@ -1,0 +1,17 @@
+
+E
+java:S1444"*Make this "public static user" field final(µáÏ¯ùÿÿÿÿ
+H
+java:S4925 "-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¤ªœ¾
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+q
+java:S1104"VMake connection a static final constant or non-public and provide accessors if needed.(ƒÊ§úÿÿÿÿ
+H
+java:S1128
+"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+K
+java:S1444"0Make this "public static connection" field final(ƒÊ§úÿÿÿÿ
+k
+java:S1104"PMake user a static final constant or non-public and provide accessors if needed.(µáÏ¯ùÿÿÿÿ

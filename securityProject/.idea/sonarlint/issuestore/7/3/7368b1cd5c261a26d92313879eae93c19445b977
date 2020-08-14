@@ -1,0 +1,28 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ã»¿ş
+C
+java:S1604-"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+C
+java:S1604z"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+n
+java:S1450‚"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+w
+java:S1450ƒ"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+w
+java:S1450„"[Remove the "jScrollPane3" field and declare it as a local variable in the relevant methods.(Ò‰êêùÿÿÿÿ
+u
+java:S1450…"YRemove the "jTextArea1" field and declare it as a local variable in the relevant methods.(–¸äÎûÿÿÿÿ
+p
+java:S1450†"YRemove the "jTextArea3" field and declare it as a local variable in the relevant methods.(¥¶Ùş
+@
+java:S1172Y"*Remove this unused method parameter "evt".(‚À‡ä
+M
+java:S1135Z"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+S
+java:S1197a"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+[
+java:S2147p"ECombine this catch with the one at line 110, which has the same body.(¨¦Š½
+[
+java:S2147r"ECombine this catch with the one at line 110, which has the same body.(ã€ 
+Z
+java:S2147t"ECombine this catch with the one at line 110, which has the same body.(ñÎ¯%
